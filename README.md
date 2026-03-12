@@ -1,5 +1,5 @@
-# 5657_clase3
-<h1>Proyecto de la clase de GIT </h1>
+<h1> Git</h1>
+<h2>Proyecto de la clase de GIT </h2>
 <ol>
   <li>Aqui estamos escribiendo para hacer una nueva confirmaci[on</li>
   <li> Debemos ir paso a paso</li>
